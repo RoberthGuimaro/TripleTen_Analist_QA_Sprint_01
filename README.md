@@ -1,6 +1,6 @@
 # TripleTen_Analist_QA_Sprint_01
 
-# 📌 Sprint 01 - Curso de QA  
+# 📌 Sprint 01 - Curso de QA - Roberth Guimaro
 
 Este repositório contém os materiais da **Sprint 01** do Curso de Quality Assurance (QA), com foco nos **fundamentos essenciais de QA** e a aplicação prática através de casos de teste e relatórios de bugs.  
 
