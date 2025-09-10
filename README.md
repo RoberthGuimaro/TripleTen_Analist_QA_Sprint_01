@@ -1,4 +1,4 @@
-# TripleTen_Analist_QA_Sprint_01
+# TripleTen_Analyst_QA_Sprint_01_Introduction_to_QA_Analysis
 
 # 📌 Sprint 01 - Curso de QA - Roberth Guimaro
 
