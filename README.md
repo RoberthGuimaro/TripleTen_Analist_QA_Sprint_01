@@ -31,10 +31,13 @@ Estabelecer uma base sólida sobre os fundamentos de QA.
 ---
 
 ## Estrutura do Repositório
+```text
 /
-├── casos_de_testes_e_bugs/ casos_de_testes_e_bugs_1_sprint.xlsx ← Lista de casos de teste planejados e Registro de bugs encontrados
-├── evidencias/ ← Imagens (prints, screenshots, vídeos) associadas a cada bug encontrado
-└── README.md ← Documentação atual
+├── casos_de_testes_e_bugs/
+│   └── casos_de_testes_e_bugs_1_sprint.xlsx  ← Lista de casos de teste planejados e registro de bugs encontrados
+├── evidencias/                               ← Imagens (prints, screenshots, vídeos) associadas a cada bug encontrado
+└── README.md                                 ← Documentação atual
+```
 
 ## Como usar
 1. Abra `casos_de_testes_e_bugs_1_sprint.xlsx` na aba `casos de testes` para ver os casos de teste com suas condições e passos.
