@@ -29,3 +29,14 @@ Estabelecer uma base sólida sobre os fundamentos de QA.
 - Organização e documentação de processos de teste.  
 
 ---
+
+## Estrutura do Repositório
+/
+├── casos_de_testes_e_bugs/ casos_de_testes_e_bugs_1_sprint.xlsx ← Lista de casos de teste planejados e Registro de bugs encontrados
+├── evidencias/ ← Imagens (prints, screenshots, vídeos) associadas a cada bug encontrado
+└── README.md ← Documentação atual
+
+## Como usar
+1. Abra `casos_de_testes_e_bugs_1_sprint.xlsx` na aba `casos de testes` para ver os casos de teste com suas condições e passos.
+2. Confira a aba `relatório de bug` para entender os defeitos detectados.
+3. Acesse a pasta `evidencias/` para visualizar provas visuais dos bugs reportados com seus respectivos id's.
